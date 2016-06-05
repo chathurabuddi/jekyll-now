@@ -28,13 +28,13 @@ footer-links:
   rss: chathurabuddi
   twitter: chathurabuddi
   stackoverflow: users/3728639/chathurabuddi
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: user/CHATHURABUDDI
+  googleplus: u/0/108895549324805546662
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: chathurabuddi
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
